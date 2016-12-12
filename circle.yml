@@ -1,4 +1,3 @@
-
 general:
     artifacts:
         - /home/ubuntu/your-app-name/app/build/outputs/apk/
