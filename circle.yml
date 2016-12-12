@@ -1,6 +1,6 @@
 general:
     artifacts:
-        - /home/ubuntu/your-app-name/app/build/outputs/apk/
+        - /home/ubuntu/circleframe/app/build/outputs/apk/
 
 machine:
     environment:
@@ -8,10 +8,10 @@ machine:
 
 dependencies:
     override:
-        - echo y | android update sdk --no-ui --all --filter tools,platform-tools,build-tools-25.0.2,android-25
+        - echo y | android update sdk --no-ui --all --filter tools,platform-tools,build-tools-23.0.3,android-23,extra-google-m2repository
         - ANDROID_HOME=/usr/local/android-sdk-linux ./gradlew dependencies
 
 test:
     override:
         - (./gradlew assemble):
-            timeout: 960
+            timeout: 360
