@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Social Share Sample</string>
+
+    <string name="title">Title:</string>
+    <string name="content">Content:</string>
+    <string name="subject">Subject:</string>
+
+    <string name="dummy_title">This is the title to share!</string>
+    <string name="dummy_content">This is the content to share!</string>
+    <string name="dummy_subject">This is the subject to share!</string>
+
+    <string name="share_through_default_dialog">Share through default dialog</string>
+    <string name="share_to_customized_apps">Share to customized apps</string>
+    <string name="share_through_custom_dialog">Share through custom dialog</string>
+
+    <string name="storage_permission_request_message">Please allow access to device storage to share</string>
+    <string name="storage_permission_denied_message">You won\'t be able to share without storage permission, please allow
+    storage permission in your phone settings and try again</string>
+
+</resources>
