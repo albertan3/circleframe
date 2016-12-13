@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/frameworks_git.iml" filepath="$PROJECT_DIR$/frameworks_git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleApp/SampleApp.iml" filepath="$PROJECT_DIR$/SampleApp/SampleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socialShareLib/SocialShareLib.iml" filepath="$PROJECT_DIR$/socialShareLib/SocialShareLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame2.iml" filepath="$PROJECT_DIR$/frame2.iml" />
     </modules>
   </component>
 </project>
