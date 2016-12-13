@@ -1,6 +1,7 @@
+
 general:
     artifacts:
-        - /home/ubuntu/circleframe/app/build/outputs/apk/
+        - /home/ubuntu/circleciwork/app/build/outputs/apk/
 
 machine:
     environment:
