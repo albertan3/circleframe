@@ -15,5 +15,5 @@ dependencies:
 test:
     override:
         - chmod +x gradlew
-        - ./gradlew assemble
+         - (./gradlew assemble):
         
