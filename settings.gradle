@@ -1,1 +1,1 @@
-include ':SocialShareLib'
+include ':SampleApp', ':SocialShareLib'
