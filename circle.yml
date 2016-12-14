@@ -1,7 +1,7 @@
 
 general:
     artifacts:
-        - /home/ubuntu/circleframe/app/build/outputs/aar
+        - /home/ubuntu/circleframe/socialShareLib/build/outputs/aar
 
 machine:
     environment:
